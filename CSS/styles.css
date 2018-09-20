@@ -1,0 +1,27 @@
+/* HTML COMMENT EXAMPLE */
+h1 {color: aquamarine;
+  background: darkslategray;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: 'Titillium Web', sans-serif;
+}
+h2 {color: steelblue;
+  background: aquamarine;
+  text-align: "center";
+  font-size: 32px;
+  font-family: 'Titillium Web', sans-serif;
+}
+p {color: darkslategray;
+  background: aquamarine;
+  font-size: 18px;
+  font-family: 'Noto Serif', serif;
+}
+img {max-width: 600px;
+    max-height: auto;
+    background-color: white;
+  }
+ul, ol, li {color: aquamarine;
+  background: darkslategray;
+  font-size: 18px;
+  font-family: 'Noto Serif', serif;
+}
