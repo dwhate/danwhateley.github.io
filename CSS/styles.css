@@ -12,7 +12,6 @@ h2 {color: steelblue;
   font-family: 'Titillium Web', sans-serif;
 }
 p {color: darkslategray;
-  background: aquamarine;
   font-size: 18px;
   font-family: 'Noto Serif', serif;
 }
@@ -20,8 +19,13 @@ img {max-width: 600px;
     max-height: auto;
     background-color: white;
   }
-ul, ol, li {color: aquamarine;
-  background: darkslategray;
+ul, ol, li {
   font-size: 18px;
   font-family: 'Noto Serif', serif;
+}
+h3 {
+  color: aquamarine;
+    background: darkslategray;
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
 }
