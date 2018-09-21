@@ -22,6 +22,7 @@ img {max-width: 600px;
     background-color: white;
   }
 ul, ol, li {
+  color: darkslategray;
   font-size: 18px;
   font-family: 'Merriweather', serif;
 }
