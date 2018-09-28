@@ -76,26 +76,6 @@ h3 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
-#wLinkedIn a {
-    display: inline-block;
-    color: #000 !important;
-    background: #fdfdfd;
-    background: -webkit-linear-gradient(#fdfdfd, #eee);
-    background: -moz-linear-gradient(#fdfdfd, #eee);
-    background: -o-linear-gradient(#fdfdfd, #eee);
-    background: linear-gradient(#fdfdfd, #eee);
-    text-decoration: none;
-    font-size: 12px !important;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    line-height: inherit;
-    font-weight: bold;
-    border: 1px solid #bbb;
-    border-radius: 3px;
-}
-
-#wLinkedIn a:hover {
-    opacity: 0.8;
-}
 #sidebyside {
    width: 35%;
    padding: 5px;
