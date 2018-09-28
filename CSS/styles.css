@@ -73,9 +73,7 @@ h3 {
 }
 /*Social Buttons for footer */
 .twitter-tweet {
-  padding-left: 40px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 0px 20px 40px;
 }
 #sidebyside {
    width: 35%;
@@ -89,7 +87,9 @@ h3 {
   }
 .footer {
   padding-left: 40px;
-  padding-top: 100px;
+  background-color: gray;
+  color: white;
+  background-size: contain;
 }
 
 #blockquoteborder {
@@ -105,7 +105,4 @@ h3 {
   filter: grayscale(100%);
   width:20%;
   height: auto;
-}
-.LI-profile-badge {
-  padding: 50px;
 }
