@@ -1,34 +1,75 @@
-/* HTML COMMENT EXAMPLE */
-h1 {color: aquamarine;
-  background: darkslategray;
-  font-size: 64px;
+/* CSS COMMENT EXAMPLE */
+
+h1 {color: darkslategray;
+  font-size: 40px;
   font-weight: bold;
-  font-family: 'Istok Web', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 40px;
+  padding-right: 500px;
 
 }
-h2 {color: steelblue;
-  background: aquamarine;
+h2, blockquote {color: gray;
   text-align: "center";
-  font-size: 32px;
-  font-family: 'Istok Web', sans-serif;
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 40px;
+  padding-right: 500px;
 
 }
-p {color: darkslategray;
-  font-size: 18px;
-  font-family: 'Merriweather', serif;
+body {color: darkslategray;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Libre Baskerville', serif;
 }
-img {max-width: 600px;
+img {max-width: 50%;
     max-height: auto;
-    background-color: white;
+    padding-left: 20px;
   }
-ul, ol, li {
-  color: darkslategray;
-  font-size: 18px;
-  font-family: 'Merriweather', serif;
-}
+
 h3 {
-  color: aquamarine;
-    background: darkslategray;
+  color: darkslategray;
     font-weight: bold;
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+#byline {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  padding-left: 40px;
+}
+
+#date {
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  padding-left: 40px;
+}
+#photocredit {
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  padding-left: 40px;
+}
+.articletext {
+  padding-left: 40px;
+  padding-right: 500px;
+}
+.twitter-tweet {
+  padding-left: 100px;
+}
+#sidebyside {
+   width: 35%;
+   padding: 5px;
+   padding-left: 40px;
+ }
+ #sidebyside2 {
+    width: 26%;
+    padding: 5px;
+    padding-left: 40px;
+  }
+.footer {
+  padding-left: 40px;
 }

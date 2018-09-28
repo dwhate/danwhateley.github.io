@@ -1,0 +1,19 @@
+/*
+colors
+fonts
+
+*/
+/* GLOBAL SETTINGS */
+html {
+  box-sizing: "border-box";
+}
+* {
+  box-sizing: "inherit";
+}
+body {
+  font-family: "Merriweather",serif;
+  font-size: 18px;
+  color: black;
+  line-height: 1.5;
+  background-color: white;
+}
