@@ -6,6 +6,7 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+/*This will set a background and font for my header */
 header {
   background-color: gray;
   background-size: cover;
@@ -13,6 +14,7 @@ header {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
+/* This establishes styles for my story headline */
 h1 {color: darkslategray;
   font-size: 40px;
   font-weight: bold;
@@ -74,6 +76,8 @@ h3 {
 /*Social Buttons for footer */
 .twitter-follow-button {
   padding-top: 2.5px;
+  filter: grayscale(100%);
+
 }
 .twitter-tweet {
   padding: 20px 0px 20px 40px;
