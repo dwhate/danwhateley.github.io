@@ -121,6 +121,5 @@ h3 {
 #portrait {
   border-radius: 50%;
   filter: grayscale(100%);
-  width:20%;
-  height: auto;
+  max-width:20%;
 }
