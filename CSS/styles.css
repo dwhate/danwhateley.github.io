@@ -21,7 +21,8 @@ h1 {color: darkslategray;
   font-family: 'Open Sans', sans-serif;
   padding-left: 40px;
   padding-right: 500px;
-  /* This establishes styles for my subheadline and blockquotes */
+
+  /* These establish styles for my subheadline and blockquotes */
 }
 h2, blockquote {color: gray;
   text-align: "center";
@@ -110,6 +111,7 @@ h3 {
   font-weight: 800;
   color: white;
   background-size: contain;
+  text-align: center;
 }
 /*Remove link formatting*/
 .link {
