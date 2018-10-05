@@ -125,3 +125,10 @@ h3 {
   filter: grayscale(100%);
   max-width:20%;
 }
+.biotext {
+  text-align: center;
+}
+#bioheading {
+  text-align: center;
+  padding-left: 525px;
+}
