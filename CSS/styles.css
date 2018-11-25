@@ -192,6 +192,11 @@ h3 {
   font-weight: bold;
 }
 
+#centerphoto {
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
 /*MEDIAQUERIES GIVES SPECIFIC RULES FOR SCREEN THAT ARE SMALLER THAN XXXXXX */
 
 @media (max-width: 700px) {
