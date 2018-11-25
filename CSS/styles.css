@@ -117,6 +117,9 @@ h3 {
   font-weight: bold;
   padding: 10px;
 }
+#byline:hover {
+  color: steelblue;
+}
 /* This establishes styles for my dates */
 
 #date {
