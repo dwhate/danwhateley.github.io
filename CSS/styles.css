@@ -196,15 +196,6 @@ h3 {
   color: white;
 }
 
-#citibike {
-  width: 100%;
-  height:0%;
-  bottom: 0;
-  display: block;
-  position: absolute;
-  font-weight: bold;
-  color: white;
-}
 #centerphoto {
   justify-content: center;
   width: 100%;
